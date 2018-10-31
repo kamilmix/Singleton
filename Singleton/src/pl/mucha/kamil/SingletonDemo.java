@@ -8,6 +8,7 @@ public class SingletonDemo {
 		Singleton s2 = Singleton.getInstance();
 
 		System.out.println(s + " " + s2);
+		System.out.println(Integer.MAX_VALUE);
 
 	}
 
